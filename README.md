@@ -15,7 +15,8 @@ sql-analytics/
 ├── projects/                  # Individual analytics projects
 │   ├── colleges_outcomes/     
 │   │   ├── queries.sql        # Core SQL queries
-│   │   ├── notes.md           # Assumptions, design decisions, tradeoffs
+│   │   ├── notes.md           # Assumptions, design decisions, 
+|	|	├── tradeoffs
 │   │   └── results.md         # Final findings / business insights
 │   └── <next_project_name>/
 │       ├── queries.sql
